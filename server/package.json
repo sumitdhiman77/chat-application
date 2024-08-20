@@ -1,0 +1,18 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "this is server/backend side of application",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "Sumit Dhiman",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
